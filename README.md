@@ -20,7 +20,7 @@ Spectral super-resolution (SSR) is an important research area. It amounts at inc
 
 ## Kind Reminder
 
-<span style="color:green;"> ***We are preparing the relevant code and will release it soon.*** </span>
+***We are preparing the relevant code and will release it soon.***
 
 
 ## Citation Information
@@ -28,7 +28,7 @@ Please cite our new paper:
 
 **Plain Text:**
 
-Chengle Zhou, Zhi He, Guanglin Lai and Antonio Plaza. "[A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery](https://ieeexplore.ieee.org/document/10902158)," ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025, doi: 10.1109/JSTARS.2025.3545039.
+Chengle Zhou, Zhi He, Guanglin Lai, and Antonio Plaza. "[A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery](https://ieeexplore.ieee.org/document/10902158)," ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025, doi: 10.1109/JSTARS.2025.3545039.
 
 **BibTex:**
 
