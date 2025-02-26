@@ -28,7 +28,7 @@ Please cite our new paper:
 
 **Plain Text:**
 
-Chengle Zhou, Zhi He, Guanglin Lai and Antonio Plaza. "[A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery](https://ieeexplore.ieee.org/document/10902158)," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, doi: 10.1109/JSTARS.2025.3545039.
+Chengle Zhou, Zhi He, Guanglin Lai and Antonio Plaza. "[A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery](https://ieeexplore.ieee.org/document/10902158)," ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025, doi: 10.1109/JSTARS.2025.3545039.
 
 **BibTex:**
 
