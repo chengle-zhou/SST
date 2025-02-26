@@ -8,4 +8,8 @@
 
 ---
 
+![framework](https://github.com/chengle-zhou/MY-IMAGE/blob/2decde97242d9c80ae56aff79f60b835866ce33f/SST/framwork.png)
+
+Fig. 1. Overview of our newly proposed SST method for spectral super-resolution.
+
 We are preparing the relevant code and will release it soon.
