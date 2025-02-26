@@ -20,7 +20,7 @@ Spectral super-resolution (SSR) is an important research area. It amounts at inc
 
 ## Kind Reminder
 
-We are preparing the relevant code and will release it soon.
+<font color="#00FF00">***We are preparing the relevant code and will release it soon.***</font>
 
 
 ## Citation Information
