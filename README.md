@@ -38,9 +38,9 @@ Chengle Zhou, Zhi He, Guanglin Lai, and Antonio Plaza. "[A Selective Semantic Tr
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={A Selective Semantic Transformer for Spectral Super-Resolution of Multispectral Imagery}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-14},
+  pages={7436-7450},
   keywords={Multispectral images (MSIs);hyperspectral images (HSIs);spectral semantics;spectral super-resolution (SSR);transformer},
   doi={10.1109/JSTARS.2025.3545039}}
 ```
